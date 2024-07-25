@@ -129,7 +129,8 @@ telegram: @alexander777kr
 - Unsplash Images - React Query, Axios, React icons, useState, useEffect, Context API, local storage - [https://github.com/Alexander777kr/unsplash-images-project?tab=readme-ov-file](https://github.com/Alexander777kr/unsplash-images-project?tab=readme-ov-file)
 - Contentful CMS - Contentful CMS, custom hook, useState, useEffect - [https://github.com/Alexander777kr/contentful-app](https://github.com/Alexander777kr/contentful-app)
 - MixMaster - styled-components, react-toastify, react router 6+ (loaders & actions), axios, react query, error pages  
-  [https://github.com/Alexander777kr/MixMaster](https://github.com/Alexander777kr/MixMaster)WebDev Portfolio - nanoid, react-icons, tailwind css - [https://github.com/Alexander777kr/webdev-portfolio](https://github.com/Alexander777kr/webdev-portfolio)
+  [https://github.com/Alexander777kr/MixMaster](https://github.com/Alexander777kr/MixMaster)
+- WebDev Portfolio - nanoid, react-icons, tailwind css - [https://github.com/Alexander777kr/webdev-portfolio](https://github.com/Alexander777kr/webdev-portfolio)
 
 - Word Analytics - вся аналитика по тексту - react  
   [https://github.com/Alexander777kr/word-analytics](https://github.com/Alexander777kr/word-analytics)
