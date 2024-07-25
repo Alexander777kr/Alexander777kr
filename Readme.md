@@ -134,3 +134,11 @@ telegram: @alexander777kr
 
 - Word Analytics - вся аналитика по тексту - react  
   [https://github.com/Alexander777kr/word-analytics](https://github.com/Alexander777kr/word-analytics)
+
+---
+
+### 🤝 Контакты:
+
+telegram: @alexander777kr
+
+---
