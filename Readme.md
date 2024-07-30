@@ -173,4 +173,4 @@ telegram: @alexander777kr
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bronik04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexander777kr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
